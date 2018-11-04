@@ -10,3 +10,5 @@ package-lock.json
 build/*
 server_compiled
 server_compiled/*
+pictures
+uploads
